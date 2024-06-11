@@ -1,4 +1,4 @@
-#host on Netlify Link::https://haseeb-react-portfolio.netlify.app/
+#host on Netlify Link::https://react-portfolio-haseeb.netlify.app/
 
 # React + Vite
 
